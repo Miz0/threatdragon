@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Threat Dragon"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "Miz0",
+    "repo": "threatdragon",
+    "branch": "master",
+    "model": "Threat Dragon"
+  }
+}
